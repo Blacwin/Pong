@@ -4,7 +4,7 @@ Simple Pygame Project
 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 
 
-###Before run this code:
+###Before run this code:###
 
 `pip install pygame`
 
